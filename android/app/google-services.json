@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884032357244",
+    "project_id": "pocket-marketzone",
+    "storage_bucket": "pocket-marketzone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884032357244:android:afd45c1158e5df8df55af9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_slider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884032357244-p9bsdl14o921m2uf51iri83em56nvegl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGzvHLGv2dlBCG0jj2-0uSK0rb--h9RqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884032357244-p9bsdl14o921m2uf51iri83em56nvegl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

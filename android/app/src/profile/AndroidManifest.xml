@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.firebase_slider">
+    <!-- Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <meta-data 
+              android:name="com.google.android.geo.API_KEY" 
+              android:value="AIzaSyDX6BR4WwQGZ9WxWt5fBdTbPxS9uFFpKlM"/>
+</manifest>
